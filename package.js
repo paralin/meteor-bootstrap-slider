@@ -4,5 +4,5 @@ Package.describe({
 
 Package.on_use(function (api, where) {
   api.use('jquery');
-  api.add_files(['./slider/css/slider.css', './slider/js/bootstrap_slider.js'], 'client');
+  api.add_files(['./slider/css/slider.css', './slider/js/bootstrap-slider.js'], 'client');
 });
