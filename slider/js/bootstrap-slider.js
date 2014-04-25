@@ -385,4 +385,4 @@
 
 	$.fn.slider.Constructor = Slider;
 
-}( window.jQuery );
+}( jQuery );
